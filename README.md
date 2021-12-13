@@ -22,3 +22,9 @@ Flag'ų palyginimas
 |100000 skirstymas|0.018s|0.014s|0.020s|
 |1000000 nuskaitymas|5.327s|5.251s|5.179s|
 |1000000 skirstymas|0.171s|0.157|0.162s|
+
+|flag'as|.exe faiko dydis|
+| --- | --- |
+|O1|53.50kb|
+|O2|60.00kb|
+|Ox|60.50kb|
