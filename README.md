@@ -1,6 +1,7 @@
 # V2
 V2.0 dalyje atlikta:
 ---
+1. Pridėtas doxygen failas pavadinimu "html"
 Naudojimo instrukcija:
 1. Panaudojus v1.2 dalyje esantį generatoriu reiktų susigeneruoti duomenų kieki, kuris turi buti 10^x, kai 2<x<8. Galima ir daugiau kaip 8, bet tada reikia pakeisti main esanti for ciklą, kad galėtų dirbti su failais virs 10^7.
 2. Namų darbų kiekis irgi yra nustatytas failuose tikslus = 10. Norint pakoreguoti tai, reiktu ir kode pakeisti "default" namų darbų kiekį.
